@@ -40,11 +40,6 @@
 
     ];
 
-    $hotels_with_parking = array();
-    foreach($hotels as $hotel) {
-        if ($hotel['parking'] === true) {
-        $hotels_with_parking[] = $hotel;
-    }
-}
+    $hotels_with_parking = [];
 
 ?>

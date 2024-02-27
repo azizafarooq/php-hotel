@@ -1,4 +1,4 @@
-<?php require_once "./main.php"; ?>
+<?php require_once __DIR__ . "/./vars/main.php"; ?>
 
 <!DOCTYPE html>
 <html lang="en">
